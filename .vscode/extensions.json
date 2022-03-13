@@ -1,38 +1,45 @@
 {
   "recommendations": [
-    // my extensions, ofc :P
-    "antfu.browse-lite",
-    "antfu.iconify",
-    "antfu.slidev",
-    "antfu.unocss",
-    "antfu.vite",
-    "antfu.where-am-i",
-    "lokalise.i18n-ally",
-
     // themes & icons
     "antfu.icons-carbon",
     "antfu.theme-vitesse",
+    "claeri27.oceanic-plus-plus",
+    "wesbos.theme-cobalt2",
     "file-icons.file-icons",
-    "sainnhe.gruvbox-material",
-
-    // life savers!
+    "GitHub.github-vscode-theme",
+    "juanmnl.vscode-theme-1984",
+    "sdras.night-owl",
+    
+    // life savors
     "dbaeumer.vscode-eslint",
-    "johnsoncodehk.volar",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
     "GitHub.copilot",
-    "usernamehw.errorlens",
+    "johnsoncodehk.volar",
+    "patbenatar.advanced-new-file",
+    "sleistner.vscode-fileutils",
     "streetsidesoftware.code-spell-checker",
-
+    
     // up to you
-    "amodio.tsl-problem-matcher",
-    "eamodio.gitlens",
-    "EditorConfig.EditorConfig",
+    "aaron-bond.better-comments",
+    "sdras.vue-vscode-snippets",
+    "Zignd.html-css-class-completion",
+    "bradlc.vscode-tailwindcss",
+    "janisdd.vscode-edit-csv",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "bierner.emojisense",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-preview-github-styles",
+    "dsznajder.es7-react-js-snippets",
+    "wix.vscode-import-cost",
+    "deque-systems.vscode-axe-linter",
     "GitHub.vscode-pull-request-github",
-    "mpontus.tab-cycle",
-    "naumovs.color-highlight",
+    "jpoissonnier.vscode-styled-components",
+    "Orta.vscode-jest",
     "richie5um2.vscode-sort-json",
-    "unional.vscode-sort-package-json",
-    "voorjaar.windicss-intellisense",
-    "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "silvenon.mdx",
+    "svelte.svelte-vscode"
   ]
 }
