@@ -1,45 +1,20 @@
-{
-  "recommendations": [
-    // themes & icons
-    "antfu.icons-carbon",
-    "antfu.theme-vitesse",
-    "claeri27.oceanic-plus-plus",
-    "wesbos.theme-cobalt2",
-    "file-icons.file-icons",
-    "GitHub.github-vscode-theme",
-    "juanmnl.vscode-theme-1984",
-    "sdras.night-owl",
-    
-    // life savors
-    "dbaeumer.vscode-eslint",
-    "esbenp.prettier-vscode",
-    "formulahendry.auto-close-tag",
-    "formulahendry.auto-rename-tag",
-    "GitHub.copilot",
-    "johnsoncodehk.volar",
-    "patbenatar.advanced-new-file",
-    "sleistner.vscode-fileutils",
-    "streetsidesoftware.code-spell-checker",
-    
-    // up to you
-    "aaron-bond.better-comments",
-    "sdras.vue-vscode-snippets",
-    "Zignd.html-css-class-completion",
-    "bradlc.vscode-tailwindcss",
-    "janisdd.vscode-edit-csv",
-    "christian-kohler.npm-intellisense",
-    "christian-kohler.path-intellisense",
-    "bierner.emojisense",
-    "yzhang.markdown-all-in-one",
-    "bierner.markdown-preview-github-styles",
-    "dsznajder.es7-react-js-snippets",
-    "wix.vscode-import-cost",
-    "deque-systems.vscode-axe-linter",
-    "GitHub.vscode-pull-request-github",
-    "jpoissonnier.vscode-styled-components",
-    "Orta.vscode-jest",
-    "richie5um2.vscode-sort-json",
-    "silvenon.mdx",
-    "svelte.svelte-vscode"
-  ]
-}
+// code-insiders --list-extensions
+
+aaron-bond.better-comments
+Catppuccin.catppuccin-vsc
+Catppuccin.catppuccin-vsc-icons
+christian-kohler.npm-intellisense
+christian-kohler.path-intellisense
+cipchk.cssrem
+dbaeumer.vscode-eslint
+dsznajder.es7-react-js-snippets
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+GitHub.copilot
+kamikillerto.vscode-colorize
+patbenatar.advanced-new-file
+richie5um2.vscode-sort-json
+sleistner.vscode-fileutils
+streetsidesoftware.code-spell-checker
+unifiedjs.vscode-mdx
+Zignd.html-css-class-completion
