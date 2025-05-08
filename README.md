@@ -1,7 +1,8 @@
-<samp><b>Frank's VS Code Settings</b></samp>
+<samp><b>Frank's VS Code and Zed Settings</b></samp>
 
 [`.vscode/settings.json`](./.vscode/settings.json)<br>
-[`.vscode/extensions.json`](./.vscode/extensions.json)
+[`.vscode/extensions.json`](./.vscode/extensions.json)<br>
+[Zed config](.zed/settings.json)
 
 
 <br>

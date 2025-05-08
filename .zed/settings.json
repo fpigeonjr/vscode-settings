@@ -1,0 +1,84 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "features": {
+    "edit_prediction_provider": "copilot"
+  },
+  "agent": {
+    "default_profile": "write",
+    "inline_assistant_model": {
+      "provider": "copilot_chat",
+      "model": "claude-3-5-sonnet"
+    },
+    "default_model": {
+      "provider": "copilot_chat",
+      "model": "claude-3-5-sonnet"
+    },
+    "version": "2"
+  },
+  "ui_font_size": 15,
+  "buffer_font_size": 11,
+  "theme": {
+    "mode": "system",
+    "light": "Nordfox",
+    "dark": "Catppuccin Latte"
+  },
+  "buffer_font_family": "MonoLisa",
+  "buffer_font_features": {
+    "feat": true,
+    "ures": true,
+    "liga": true,
+    "ss02": true,
+    "ss07": true
+  },
+  "buffer_line_height": "comfortable",
+  "project_panel": {
+    "dock": "right"
+  },
+  "autosave": "on_focus_change",
+  "soft_wrap": "editor_width",
+  "preferred_line_length": 100,
+  "show_wrap_guides": false,
+  "cursor_shape": "block",
+  "scroll_sensitivity": 1.5,
+  "indent_guides": {
+    "enabled": false
+  },
+  "axes": {
+    // When false, forcefully disables the horizontal scrollbar. Otherwise, obey other settings.
+    "horizontal": false,
+    // When false, forcefully disables the vertical scrollbar. Otherwise, obey other settings.
+    "vertical": true
+  },
+  "jsx_tag_auto_close": {
+    "enabled": true
+  },
+  "collaboration_panel": {
+    // Whether to show the collaboration panel button in the status bar.
+    "button": false
+  },
+  "chat_panel": {
+    // Whether to show the chat panel button in the status bar.
+    "button": "never"
+  },
+  "notification_panel": {
+    // Whether to show the notification panel button in the status bar.
+    "button": false
+  },
+  "toolbar": {
+    // Whether to show breadcrumbs.
+    "breadcrumbs": false,
+    // Whether to show quick action buttons.
+    "quick_actions": false,
+    // Whether to show the Selections menu in the editor toolbar.
+    "selections_menu": false,
+    // Whether to show agent review buttons in the editor toolbar.
+    "agent_review": false
+  }
+}
